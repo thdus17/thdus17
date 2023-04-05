@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kwkwl's%20Github&fontSize=90" />	
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=thdus17's%20Github&fontSize=90" />	
 </div>
 	
 <div align=center>
@@ -40,7 +40,7 @@
 <p>🏆 Baekjoon solved rank 🏆</p>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=yel21307)](https://solved.ac/delight1798)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=delight1798)](https://solved.ac/delight1798)
 
 <img src="http://mazandi.herokuapp.com/api?handle=delight1798&theme=warm"/>
 </div>
