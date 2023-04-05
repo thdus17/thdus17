@@ -21,7 +21,6 @@
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	
 	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
-	<img src="https://img.shields.io/badge/Spring Data JPA%20SQL-6DB33F?style=flat&logo=Spring Data JPA&logoColor=white" />
 </div>
 <br>
 <div align=center>
